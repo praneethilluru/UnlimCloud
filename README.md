@@ -87,6 +87,6 @@ This project is licensed under the MIT License **LICENSE** file for details.
 &nbsp;
 <div align="center">
 
-  [Made with ❤️ by Praneeth]
+  [Made with ❤️ by Praneeth x inulute]
 
 </div>
