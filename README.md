@@ -3,7 +3,7 @@
   <h1>UnlimCloud Desktop App</h1>
 </div>
 
-Welcome to the Unofficial Desktop Application for UnlimCloud
+Welcome to the official Desktop Application for UnlimCloud
 
 ## About UnlimCloud <img src="./src/assets/unlim-clear.png" alt="UnlimCloud Logo" width="30"/> 
 
@@ -58,27 +58,16 @@ Before diving in, ensure that you have the following installed on your system:
    yarn tauri dev
    ```
 
-## 📢 Feedback and Contributions
+## 📢 Feedback 
 
-We welcome contributions! If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Support and Donations ❣️
-
-<div align=center>
-<img src="./src/assets/dunno2.svg" alt="UnlimCloud Logo" width="80"/> 
 
 </div>
 
-If you find this project helpful, consider supporting us by making a donation. Your contributions help maintain and improve UnlimCloud Desktop App.
+If you find this project helpful, consider supporting us..
 
-<div align="center">
-  <a href="https://ko-fi.com/inulute"><img height='41' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' alt='Buy Me a Coffee at ko-fi.com'></a>
-  <a href="https://paypal.me/inulute"><img src="./src/assets/payment/paypal.svg" alt="PayPal" height="41" width="174"></a>
-  <a href="https://upi-inulute.vercel.app/"><img src="./src/assets/payment/upi.svg" alt="UPI" height="41" width="174"></a>
-</div>
 
-> [!NOTE]  
-> UPI is only available for Indian users.
 
 <h2>🗃️ License</h2>
 
@@ -98,6 +87,6 @@ This project is licensed under the MIT License **LICENSE** file for details.
 &nbsp;
 <div align="center">
 
-  [![Made with ❤️ by inulute](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20inulute-black?style=flat-square)](https://inulute.github.io/linkme/)
+  [![Made with ❤️ by Praneeth]
 
 </div>
