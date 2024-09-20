@@ -82,11 +82,11 @@ This project is licensed under the MIT License **LICENSE** file for details.
 <h2>📝 Acknowledgements</h2>
 
 > [!NOTE]  
-> This application is not affiliated with the official Unlim Cloud but is an independent endeavor that brings Unlim Cloud to your desktop.
+> This application is an independent endeavor that brings Unlim Cloud to your desktop.
 ---
 &nbsp;
 <div align="center">
 
-  [![Made with ❤️ by Praneeth]
+  [Made with ❤️ by Praneeth]
 
 </div>
