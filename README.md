@@ -22,11 +22,6 @@ You can download the latest releases for Windows from the release section.
 <div align="center">
 
 
-
-[![Download](https://img.shields.io/badge/Download-Unlim%20Cloud-brightgreen?style=for-the-badge)](https://www.pling.com/p/2107697/)
-
-[![Changelog](https://img.shields.io/github/v/release/inulute/unlim-cloud?color=brightgreen&include_prereleases&label=Changelog&style=for-the-badge)](https://github.com/inulute/unlim-cloud/releases)
-
 </div>
 
 > [!NOTE]  
@@ -42,18 +37,14 @@ Before diving in, ensure that you have the following installed on your system:
 
 ### Getting Started
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/inulute/unlim-cloud.git
-   ```
 
-2. **Install the Dependencies:**
+1. **Install the Dependencies:**
    ```bash
    cd unlim-cloud-desktop
    yarn install
    ```
 
-3. **Run the Application:**
+2. **Run the Application:**
    ```bash
    yarn tauri dev
    ```
