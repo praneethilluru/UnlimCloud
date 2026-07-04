@@ -5,7 +5,7 @@
 
 Welcome to the official Desktop Application for UnlimCloud
 
-## About UnlimCloud <img src="./src/assets/unlim-clear.png" alt="UnlimCloud Logo" width="30"/> 
+## About UnlimCloud
 
 UnlimCloud offers a unique cloud storage solution, utilizing your Telegram ID as a secure and private storage identifier. Enjoy unlimited cloud storage for your files, accessible through this sleek desktop application.
 
